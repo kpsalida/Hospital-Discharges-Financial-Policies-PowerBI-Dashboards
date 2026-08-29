@@ -58,6 +58,7 @@ A six-KPI summary (Revenue, Discharges, CPD, Avg. Length of Stay, Profit, Profit
 ## Data & Tools
 
 - **Data source:** [NY SPARCS Hospital Inpatient Discharges (2018–2019)](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/4ny4-j5zv)
+- **Data files:** raw_hospital_discharges_2018.csv & raw_hospital_discharges_2019.csv
 - **Preprocessing, EDA & clustering:** Python (pandas, scikit-learn — KMeans, silhouette scoring, linear regression) in Google Colab
 - **Dashboards:** Power BI Desktop
 - **Report & presentation:** MS Word, PowerPoint

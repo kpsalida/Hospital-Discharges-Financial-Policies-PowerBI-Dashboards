@@ -71,7 +71,7 @@ A six-KPI summary (Revenue, Discharges, CPD, Avg. Length of Stay, Profit, Profit
 | `Technical.pbix` | Technical-level Power BI dashboard |
 | `Director_and_C.pbix` | Director and C-level dashboards (two report pages) |
 | `Report.pdf` | Full written report (~4,700 words) covering methodology, EDA, and strategic analysis |
-| `Presentation.pdf` / `Presentation.pptx` | Project presentation slides |
+| `Presentation.pdf` | Project presentation slides |
 
 ## My Contribution
 

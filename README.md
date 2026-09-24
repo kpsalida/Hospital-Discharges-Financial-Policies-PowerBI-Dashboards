@@ -79,4 +79,4 @@ I led the technical exploratory data analysis for this project — cleaning and 
 
 ---
 
-*Class project for ITC6004B1 – Data Visualization, Winter Term 2026, The American College of Greece.*
+*Class project for ITC6004B1 – Data Visualization, Winter Term 2026, The American College of Greece. Under the supervision of Dr. Xyrogiannis*
